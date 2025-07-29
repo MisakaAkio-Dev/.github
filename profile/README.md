@@ -7,4 +7,6 @@
 </p>
 
 ---
-此为备份&私密仓库专用组织，如需查看公开项目请前往 [@MisakaAkio](https://github.com/MisakaAkio)
+个人主页：[www.akio.top](www.akio.top)
+
+个人视频：[studio.akio.top](studio.akio.top)
