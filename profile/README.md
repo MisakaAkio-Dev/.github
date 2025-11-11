@@ -7,6 +7,4 @@
 </p>
 
 ---
-个人主页：[www.akio.top](www.akio.top)
-
-个人视频：[studio.akio.top](studio.akio.top)
+- 本组织更多作为归档及私密项目运作而存在，更多项目请前往 [@NiuBoss123](https://github.com/NiuBoss123) 查看
